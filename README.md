@@ -19,6 +19,7 @@ I love to repair and modify consoles as well as utilize broken/old electronics f
 - I am someone who loves to build and paint models and mini figures
 - I have run a marathon and will continue to do one a year
 - I know a lot about PT, and rehabilitation for injuries
+- My favorite College courses were "Control Systems", "Electronics Lab", "Computer Architecture" and "Data Analysis in Python"
 - **Hobbies:** Gym, Building Projects, playing sports
 
 **Contact me:** bmh493@brandonhernandez.cc
