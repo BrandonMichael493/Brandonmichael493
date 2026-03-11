@@ -8,7 +8,7 @@ I come up with lots of ideas, when I do I try to save them and make them future 
 
 For fun I've been utilizing VM's for malware analysis and testing out building a SIEM to deploy on my personal home server, soon I want to build a test bench.
 
-I love linux and have found it to be a gateway into scripting (bash scripting obviously, but I do have powershell windows scripting experience)
+I love linux and have found it to be a gateway into scripting (bash scripting obviously)
 
 The coding languages I use more often are HTML, CSS, JS, Python, and C. I have previously used Java, Basic, and Assembly.
 
