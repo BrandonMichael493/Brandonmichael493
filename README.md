@@ -14,13 +14,26 @@ The coding languages I use more often are HTML, CSS, JS, Python, and C. I have p
 
 I love to repair and modify consoles as well as utilize broken/old electronics for any projects and I love to break out the 3d printer.
 
-**Fun Facts:**
+---
+### Tools and Tech
+- Javascript, HTML, CSS, Python, C
+- Bash Scripting (nano superior), Powershell Scripting
+- Windows Administration, SCCM, also Microsoft Azure AD
+- Kali Linux, Parrot OS, Flare VM, Linux Mint
+- Flipper Zero, Raspberry Pi zero, Arduino, TI MCU
+- Soldering Iron, heatgun, 3d printer, digital calipermultimeter, oscilloscope, DC power supply
+
+---
+
+### **Fun Facts:**
 - I have a dog and learned how to train dogs professionally.
 - I am someone who loves to build and paint models and mini figures
-- I have run a marathon and will continue to do one a year
+- I have run a marathon and will continue to do one every year
 - I know a lot about PT, and rehabilitation for injuries
 - My favorite College courses were "Control Systems", "Electronics Lab", "Computer Architecture" and "Data Analysis in Python"
 - **Hobbies:** Gym, Building Projects, playing sports
+
+---
 
 **Contact me:** bmh493@brandonhernandez.cc
 
